@@ -1,4 +1,6 @@
-public class Main {
+package Lesson_One;
+
+public class Theory {
     public static void main(String[] args) {
         int maxValue = 2147483647;
         maxValue += 1;
